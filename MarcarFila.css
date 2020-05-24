@@ -1,0 +1,15 @@
+tr.row {
+  color: #oo3333;
+  background-color: white;
+}
+ 
+td.col {
+  border: 1px solid blue;
+  padding: 5px;
+}
+ 
+table.test {
+  text-align: center;
+  width: 340px;
+  margin-left: 30%
+}
